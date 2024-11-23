@@ -7,8 +7,6 @@ import org.junit.runners.Parameterized;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.junit.Assert.assertEquals;
 import static org.hamcrest.CoreMatchers.is;
-import static praktikum.IngredientType.FILLING;
-import static praktikum.IngredientType.SAUCE;
 
 @RunWith(Parameterized.class)
 public class BunTest {
